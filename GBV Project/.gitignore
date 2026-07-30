@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+GBV_BERT/model.safetensors
+GBV_BERT/training_args.bin
